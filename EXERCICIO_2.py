@@ -19,7 +19,7 @@ class Usuario:
 
 
 usuario1 = Usuario("Isaak", "Gomes", datetime.date(1998, 6, 15))
-usuario2 = Usuario("Pedro", "Henrique", datetime.date(2000, 10, 3))
+usuario2 = Usuario("Jonnie", "Bravo", datetime.date(2000, 10, 3))
 
 # Usuario1 dando olá para o usuario2 e vice e versa
 print(usuario1.hello(usuario2))
