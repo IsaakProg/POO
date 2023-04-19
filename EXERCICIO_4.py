@@ -8,3 +8,5 @@ class Usuario():
 
 
 print(Usuario("Johnny", "Bravo"))
+
+#exercicio 4
