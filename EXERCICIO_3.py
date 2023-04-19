@@ -57,3 +57,4 @@ class Pessoa():
 
 pessoa1 = Pessoa("João", "Carvalho")
 print(f"Meu nome é {pessoa1.nome_completo()}")
+#exercicio 3
