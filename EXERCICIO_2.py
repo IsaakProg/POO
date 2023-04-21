@@ -28,3 +28,4 @@ print(usuario2.hello(usuario1))
 # Calculando as idades dos usuários
 print(usuario1.calcular_idade())
 print(usuario2.calcular_idade())
+#exercicio2
