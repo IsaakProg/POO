@@ -26,3 +26,4 @@ usuario1.set_nome("João", "Santos")
 
 # Call the get_nome() method to retrieve the new name of usuario1
 print(usuario1.get_nome())
+# exercicio 1
